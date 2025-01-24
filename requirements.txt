@@ -1,7 +1,7 @@
-pandas
-numpy
-seaborn
+pandas==11.1.0
+numpy==2.2.1
+nltk==3.9.1
+scikit-learn==1.6.0
+streamlit==1.41.1
+seaborn 
 matplotlib
-nltk
-scikit-learn
-streamlit
